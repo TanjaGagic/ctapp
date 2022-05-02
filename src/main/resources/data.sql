@@ -1,0 +1,10 @@
+INSERT INTO languages (id, text) VALUES (1, 'Hello world');
+INSERT INTO languages (id, text) VALUES (2, 'Zdravo svete');
+INSERT INTO languages (id, text) VALUES (3, 'Привет, мир');
+INSERT INTO languages (id, text) VALUES (4, 'Selam Dünya');
+INSERT INTO languages (id, text) VALUES (5, 'Ciao mondo');
+INSERT INTO languages (id, text) VALUES (6, 'Bonjour le monde');
+INSERT INTO languages (id, text) VALUES (7, 'Ahoj světe');
+INSERT INTO languages (id, text) VALUES (8, 'Aloha honua');
+INSERT INTO languages (id, text) VALUES (9, 'Salut Lume');
+INSERT INTO languages (id, text) VALUES (10, 'Helló Világ');
